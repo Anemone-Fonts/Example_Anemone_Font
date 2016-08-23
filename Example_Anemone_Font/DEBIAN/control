@@ -1,0 +1,10 @@
+Package: io.github.mwoolweaver.ExampleAnemoneFont
+Name: Example Anemone Font
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is an Example Anemone Font package
+Depends: com.anemonetheming.anemone (>=1.1-348)
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Section: Fonts (iOS X.x Anemone)
+Depiction: https://mwoolweaver.github.io/Anemone-Fonts/dep/Example_Depiction/index.html
