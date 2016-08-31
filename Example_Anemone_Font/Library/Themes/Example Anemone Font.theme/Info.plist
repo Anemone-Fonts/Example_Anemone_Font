@@ -5,4 +5,8 @@
 	<key>ThemeType</key>
 	<string>Fonts</string>
 </dict>
+<dict>
+	<key>PackageName</key>
+	<string>Example Anemone Fonts</string>
+</dict>
 </plist>
