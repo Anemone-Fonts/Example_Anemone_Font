@@ -3,7 +3,7 @@
 
 # Where to put font files
  
-/Library/Themes/Example Anemone Font.theme/ANEMFontsOverride/[Font_files_should_be_placed_here]
+[/Library/Themes/Example Anemone Font.theme/ANEMFontsOverride/](https://github.com/mwoolweaver/Example_Anemone_Fonts/tree/master/Example_Anemone_Font/Library/Themes/Example%20Anemone%20Font.theme/ANEMFontsOverride)
 
 # How to sort fonts
 
