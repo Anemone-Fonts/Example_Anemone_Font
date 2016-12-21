@@ -1,4 +1,4 @@
-# Example_Anemone_Fonts
+# Example Anemone Font
 
 
 ### Where to put font files
