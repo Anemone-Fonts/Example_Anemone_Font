@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ThemeType</key>
-	<string>Fonts</string>
+	<key>ThemeType</key> <!-- Please see link for more info   -->
+	<string>Fonts</string> <!-- https://github.com/AnemoneTeam/Anemone/wiki/Theme-Categorization#categorization-by-categories  -->
 </dict>
 <dict>
 	<key>PackageName</key>
