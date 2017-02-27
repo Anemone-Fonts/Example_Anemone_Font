@@ -10,7 +10,7 @@ _____________
 [/Library/Themes/Example Anemone Font.theme/Info.plist](https://github.com/Anemone-Fonts/Example_Anemone_Fonts/blob/master/Example_Anemone_Font/Library/Themes/Example%20Anemone%20Font.theme/Info.plist)
 
 
-### Directory Tree
+### Repo Directory Tree
 
     .
     ├── Example_Anemone_Font
