@@ -22,7 +22,7 @@ _____________
     │               ├── ANEMFontsOverride
     │               │   └── Font_Files_Go_Here
     │               └── Info.plist
-    └── README.md  <---- <You Are Here>
+    └── README.md
 
 ______________
 #### References
