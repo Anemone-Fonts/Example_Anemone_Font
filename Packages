@@ -1,0 +1,16 @@
+Package: us.Anemone-Fonts.ExampleAnemoneFont
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depends: com.anemonetheming.anemone (>=1.1-348)
+Filename: ./deb/us.anemone-fonts.exampleanemonefont_1.0_iphoneos-arm.deb
+Size: 1772
+MD5sum: fd8a431e50d880d43e744ebbc2d775ee
+SHA1: b4b948be5333f06d0cc3ec7d092be29e51d24b28
+SHA256: 6b11c123ce615fdfa3332d11f32602d102645f50122a679c84af36b42bf82152
+Section: Fonts (iOS X.x Anemone)
+Description: This is an Example Anemone Font package
+Author: Michael Woolweaver <AnemoneFonts@gmail.com>
+Depiction: https://anemone-fonts.ux/Example_Anemone_Font/dep/Example_Depiction/index.html
+Name: Example Anemone Font
+
