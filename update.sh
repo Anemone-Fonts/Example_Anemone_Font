@@ -13,6 +13,7 @@ echo Creating New Packages file
 dpkg-scanpackages -m . /dev/null > Packages
 # -- Also will require installing 'dpkg-scanpackages' via homebrew if on macOS/OS X --
 
+# -- Provide both Bzip2 and gzip for more success in Cydia
 echo Compressing New Packages List
 Bzip2 -fks Packages
 gzip -c Packages > Packages.gz
