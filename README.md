@@ -27,3 +27,11 @@ _____________
 ______________
 #### References
 Anemone's Wiki page on [Fonts](https://github.com/AnemoneTeam/Anemone/wiki/Fonts)
+
+
+
+##### Extras
+<sub>This is also an example APT repository<sub> for use with Cydia</sub></sub>
+
+
+<sub>[Add to Cydia](https://cydia.saurik.com/api/share#?source=https://anemone-fonts.us/Example_Anemone_Font)<sub> to see in action</sub></sub>
