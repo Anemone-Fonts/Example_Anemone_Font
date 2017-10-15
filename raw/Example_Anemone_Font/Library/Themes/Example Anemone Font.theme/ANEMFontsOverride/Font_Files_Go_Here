@@ -1,26 +1,26 @@
 Font_Files_Go_Here
 
 
-font files need by each iOS version
+font files needed by iOS version
 
 
-iOS 9: 
+iOS 9:
 
-Georgia.ttf	
-GeorgiaBold.ttf			
-GeorgiaBoldItalic.ttf		
-GeorgiaItalic.ttf		
-Keycaps.ttc			
-KeycapsPad.ttc			
-PhoneKeyCaps.ttf		
-SFCompactDisplay-Regular.otf	
-SFCompactText-Medium.otf	
-SFCompactText-Regular.otf	
-SFUIDisplay-Black.otf		
-SFUIDisplay-Bold.otf		
-SFUIDisplay-Heavy.otf		
-SFUIDisplay-Light.otf		
-SFUIDisplay-Medium.otf		
+Georgia.ttf
+GeorgiaBold.ttf
+GeorgiaBoldItalic.ttf
+GeorgiaItalic.ttf
+Keycaps.ttc
+KeycapsPad.ttc
+PhoneKeyCaps.ttf
+SFCompactDisplay-Regular.otf
+SFCompactText-Medium.otf
+SFCompactText-Regular.otf
+SFUIDisplay-Black.otf
+SFUIDisplay-Bold.otf
+SFUIDisplay-Heavy.otf
+SFUIDisplay-Light.otf
+SFUIDisplay-Medium.otf
 SFUIDisplay-Regular.otf
 SFUIDisplay-Semibold.otf
 SFUIDisplay-Thin.otf
